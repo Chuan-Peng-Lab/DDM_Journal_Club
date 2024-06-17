@@ -26,6 +26,7 @@ The event has received strong support from COSN (Chinese Open Science Network) a
 
 | Reporter                      | Title                   | Date            | Host          | Tags                  |
 |---------------------------|----------------------------------|-----------------|---------------|-----------------------|
+| Xiujuan Wen        | Elucidating medial temporal and frontal lobe contributions to approach-avoidance conflict decision-making using functional MRI and the hierarchical drift diffusion model | June 12, 2024    | Yikang Liu       | approach-avoidance conflict, hippocampus    |
 | Pierre Le Denma           | How Prior Beliefs Affect Confidence: A Computational Modeling Perspective | May 20, 2024    | Xiao Hu       | belief, confidence    |
 | Jiaorong Luo              | The Impact of Sleep Deprivation on Interference Control: An Analysis Based on the Diffusion Model | March 29, 2024  | Yikang Liu    | Conflict, sleep deprivation |
 | Haoyu Zhang               | How DDM Helps Understand the Relationship Between Emotion and Decision Making | November 13, 2023 | Xiujuan Wen   | fMRI, review          |
